@@ -31,7 +31,7 @@ const artists = {
     },
     'selena gomez': {
         'birthday': 'July 22, 1992', 
-        'name': 'Britney Jean Spears', 
+        'name': 'Selena Marie Gomez', 
         'birthLocation': 'Grand Prairie, Texas', 
         'instruments': 'vocals'
     },
