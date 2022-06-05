@@ -1,4 +1,4 @@
-# pop-stars-api
+# pop-artists-api
 
 Pop artists API hosted on Heroku
 
