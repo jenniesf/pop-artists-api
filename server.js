@@ -12,25 +12,49 @@ app.use(cors())
 // API Objects
 const artists = {
     'taylor swift': {
-        'age': 32, 
+        'birthday': 'December 13, 1989', 
         'name': 'taylor swift', 
         'birthLocation': 'West Reading, Pennsylvania', 
         'instruments': 'vocals'
     },
     'unknown': {
-        'age': 0, 
+        'birthday': 'unknown', 
         'name': 'unknown', 
         'birthLocation': 'unknown', 
         'instruments': 'unknown'
     },
     'britney spears': {
-        'age': 40, 
+        'birthday': 'December 2, 1981', 
         'name': 'Britney Jean Spears', 
         'birthLocation': 'McComb, Mississippi', 
         'instruments': 'vocals'
     },
+    'selena gomez': {
+        'birthday': 'July 22, 1992', 
+        'name': 'Britney Jean Spears', 
+        'birthLocation': 'Grand Prairie, Texas', 
+        'instruments': 'vocals'
+    },
+    'rihanna': {
+        'birthday': 'February 20, 1988', 
+        'name': 'Robyn Rihanna Fenty', 
+        'birthLocation': 'Saint Michael, Barbados', 
+        'instruments': 'vocals'
+    },
+    'beyonce': {
+        'birthday': 'September 4, 1981', 
+        'name': 'Beyonce Giselle Knowles', 
+        'birthLocation': 'Houston, Texas', 
+        'instruments': 'vocals'
+    },
+    'mariah carey': {
+        'birthday': 'March 27, 1969', 
+        'name': 'Mariah Carey', 
+        'birthLocation': 'Huntington, New York', 
+        'instruments': 'vocals'
+    },
     'olivia rodrigo': {
-        'age': 19, 
+        'birthday': 'February 20, 2003', 
         'name': 'Olivia Isabel Rodrigo', 
         'birthLocation': 'Murrieta, California', 
         'instruments': 'vocals'
